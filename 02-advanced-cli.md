@@ -10,12 +10,11 @@ Optional lesson about more advanced features, especially for sysadmins and devop
 
 ## TOC
 
-1. Filters
-2. Grep and Regular Expressions
-3. Piping and Redirection
-4. Process Management
-5. Scripting
-6. Cheat Sheet
+1. [Filters](https://ryanstutorials.net/linuxtutorial/filters.php)
+2. [Grep and Regular Expressions](https://ryanstutorials.net/linuxtutorial/grep.php)
+3. [Piping and Redirection](https://ryanstutorials.net/linuxtutorial/piping.php)
+4. [Process Management](https://ryanstutorials.net/linuxtutorial/processes.php)
+5. [Scripting](https://ryanstutorials.net/linuxtutorial/scripting.php)
 
 ## Material
 
@@ -25,4 +24,4 @@ Alternatively William Shotts' [The Linux Command Line](http://linuxcommand.org/t
 
 ## Practice
 
-Create folders, add files, edit them with Vim or Nano, move and remove things.
+There are suggested activities at the end of each topic.

@@ -39,4 +39,4 @@ An overview about the complexity behind any web application. This is a purely th
 
 ## Practice
 
-Maybe try to infer the web architecture of some website such as Facebook.
+Try to infer the web architecture of some website such as Facebook, based on what shows in the Developer Tools.

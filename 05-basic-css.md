@@ -10,13 +10,12 @@ Some basic CSS to improve the aspect of a webpage.
 
 ## TOC
 
-1. Background Information
-2. The Basics
-3. Including CSS
-4. Basic CSS Properties
-5. Selectors
-6. Colour
-7. Final Thoughts
+1. [Background Information](https://ryanstutorials.net/css-tutorial/css-background.php)
+2. [What Is CSS?](https://ryanstutorials.net/css-tutorial/css.php)
+3. [Including CSS](https://ryanstutorials.net/css-tutorial/css-including.php)
+4. [Basic CSS Properties](https://ryanstutorials.net/css-tutorial/css-basic-properties.php)
+5. [Selectors](https://ryanstutorials.net/css-tutorial/css-selectors.php)
+6. [Colour](https://ryanstutorials.net/css-tutorial/css-colour.php)
 
 ## Material
 
@@ -24,4 +23,4 @@ Some basic CSS to improve the aspect of a webpage.
 
 ## Practice
 
-Starting from the exercise in the HTML course, try to better the looks of your webpage.
+Starting from the exercise in the HTML course, try to improve the looks of your webpage.

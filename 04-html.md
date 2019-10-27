@@ -10,17 +10,16 @@ HTML as a markup language, the Document Object Model, building a webpage. Focus 
 
 ## TOC
 
-1. Background Information
-2. The Basics
-3. Document Template
-4. Headings and Paragraphs
-5. Simple Formatting
-6. More Formatting
-7. Links
-8. Images
-9. Lists
-10. Tables
-11. Final Thoughts
+1. [Background Information](https://ryanstutorials.net/html-tutorial/html-background.php)
+2. [The Basics](https://ryanstutorials.net/html-tutorial/html.php)
+3. [Document Template](https://ryanstutorials.net/html-tutorial/html-template.php)
+4. [Basic Tags](https://ryanstutorials.net/html-tutorial/html-basic-tags.php)
+5. [Simple Formatting](https://ryanstutorials.net/html-tutorial/html-simple-formatting.php)
+6. [More Formatting](https://ryanstutorials.net/html-tutorial/html-more-formatting.php)
+7. [Links](https://ryanstutorials.net/html-tutorial/html-links.php)
+8. [Images](https://ryanstutorials.net/html-tutorial/html-images.php)
+9. [Lists](https://ryanstutorials.net/html-tutorial/html-lists.php)
+10. [Tables](https://ryanstutorials.net/html-tutorial/html-tables.php)
 
 ## Material
 

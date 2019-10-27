@@ -1,10 +1,10 @@
 # JavaScript
 
-// TODO
+## Overview
 
-[JavaScript.info](https://javascript.info) has a good mix of standard and new features (such as string literals), plus interactive exercises.
+## Duration
 
-TOC:
+## TOC
 
 1. JavaScript Fundamentals
 2. Code quality
@@ -19,6 +19,10 @@ TOC:
 11. Generators, advanced iteration
 12. Modules
 13. Miscellaneous
+
+## Material
+
+[JavaScript.info](https://javascript.info) has a good mix of standard and new features (such as string literals), plus interactive exercises.
 
 Alternatively there's [Introduction To JavaScript on Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
 
@@ -37,3 +41,5 @@ TOC:
 11. JavaScript Promises
 12. JavaScript Async-Await
 13. Learn JavaScript: Requests
+
+## Practice

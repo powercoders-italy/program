@@ -10,14 +10,14 @@ The basic commands on a Linux terminal and the slight differences between differ
 
 ## TOC
 
-1. The Command Line
-2. Basic Navigation
-3. More About Files
-4. Manual Pages
-5. File Manipulation
-6. Vi Text Editor
-7. Wildcards
-8. Permissions
+1. [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+2. [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+3. [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+4. [Manual Pages](https://ryanstutorials.net/linuxtutorial/manual.php)
+5. [File Manipulation](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
+6. [Vi Text Editor](https://ryanstutorials.net/linuxtutorial/vi.php)
+7. [Wildcards](https://ryanstutorials.net/linuxtutorial/wildcards.php)
+8. [Permissions](https://ryanstutorials.net/linuxtutorial/permissions.php)
 
 ## Material
 
@@ -27,4 +27,4 @@ Alternatively Ubuntu's [Command Line For Beginners](https://tutorials.ubuntu.com
 
 ## Practice
 
-// TODO
+There are suggested activities at the end of each topic.
