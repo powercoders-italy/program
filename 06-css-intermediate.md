@@ -1,4 +1,4 @@
-# Intermediate CSS
+# CSS - Intermediate
 
 ## Overview
 

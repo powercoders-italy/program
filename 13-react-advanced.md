@@ -1,4 +1,4 @@
-# JavaScript Frameworks: Advanced React
+# React - Advanced
 
 ## Overview
 

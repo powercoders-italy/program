@@ -2,6 +2,10 @@
 
 The curriculum for the teaching phase. We decided to split it into fine-grained modules instead of weeks, so we can easily adapt the program to the audience.
 
+## Slides
+
+The slides are currently available [here](https://docs.google.com/presentation/d/17sjNdRJt2RU2iQiAq9z1TAx2WWN4ZYTDogXGtd61dmI/).
+
 ## About The Material
 
 Theory and practice for each module are taken from online resources (at least at present). The reasons are:
@@ -19,15 +23,16 @@ A good approach could be following the online tutorials in the morning and then 
 ## Modules
 
 0. [Computers And Operating Systems](00-computers-os.md)
-1. [Command-Line Interface](01-cli.md)
-1. [Advanced CLI](02-advanced-cli.md)
-1. [Git](03-git.md)
-1. [HTML](04-html.md)
-1. [Basic CSS](05-basic-css.md)
-1. [Intermediate CSS](06-intermediate-css.md)
-1. [Advanced CSS](07-advanced-css.md)
-1. [CSS Frameworks](08-css-frameworks.md)
-1. [JavaScript](09-javascript.md)
-1. [The JavaScript Ecosystem](10-js-ecosystem.md)
-1. [Web Architectures](11-web-architectures.md)
-1. [JavaScript Frameworks: React](12-react-md)
+1. [Command-Line Interface - Base](01-cli-base.md)
+2. [CLI - Advanced](02-cli-advanced.md)
+3. [Git](03-git.md)
+4. [HTML](04-html.md)
+5. [CSS - Base](05-css-base.md)
+6. [CSS - Intermediate](06-css-intermediate.md)
+7. [CSS - Advanced](07-css-advanced.md)
+8. [CSS Frameworks](08-css-frameworks.md)
+9. [JavaScript](09-javascript.md)
+10. [The JavaScript Ecosystem](10-js-ecosystem.md)
+11. [Web Architectures](11-web-architectures.md)
+12. [React - Base](12-react-base.md)
+13. [React - Advanced](13-react-advanced.md)
