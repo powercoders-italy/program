@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript - Introduction
 
 ## Overview
 
@@ -6,19 +6,20 @@
 
 ## TOC
 
-1. JavaScript Fundamentals
-2. Code quality
-3. Objects: the basics
-4. Data types
-5. Advanced working with functions
-6. Object properties configuration
-7. Prototypes, inheritance
-8. Classes
-9. Error handling
-10. Promises, async/await
-11. Generators, advanced iteration
-12. Modules
-13. Miscellaneous
+1. Background
+2. JavaScript Fundamentals
+3. Code quality
+4. Objects: the basics
+5. Data types
+6. Advanced working with functions
+7. Object properties configuration
+8. Prototypes, inheritance
+9. Classes
+10. Error handling
+11. Promises, async/await
+12. Generators, advanced iteration
+13. Modules
+14. Miscellaneous
 
 ## Material
 
