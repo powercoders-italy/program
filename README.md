@@ -2,11 +2,9 @@
 
 The curriculum for the teaching phase. We decided to split it into fine-grained modules instead of weeks, so we can easily adapt the program to the audience.
 
-_NOTE_: don't mind the other `.md` files in this project: they are deprecated and will soon be removed.
-
 ## Slides
 
-All the slides are currently available in [this folder](https://drive.google.com/open?id=1IkYr5puy4XWmboJXWrN1QjWkfPWiCybJ). They are still a WIP, especially for the practice part. Volunteers needed!
+All the slides are currently available in [this folder](https://drive.google.com/open?id=1IkYr5puy4XWmboJXWrN1QjWkfPWiCybJ).
 
 ## About The Material
 
